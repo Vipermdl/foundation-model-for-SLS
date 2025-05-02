@@ -50,7 +50,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 ### :fire: Update
 
-- [2025/05/02] We have released the GSLSD dataset, details can be found at [here](https://github.com/Vipermdl/Oxyformer/blob/main/data.md).
+- [2025/05/02] We have released the GSLSD dataset, details can be found at [here](https://pan.baidu.com/s/1RYiQPiTN84KU0SVgJZsgNw?pwd=h6hr).
 
 
 
