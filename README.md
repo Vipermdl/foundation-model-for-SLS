@@ -50,7 +50,6 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 ### :fire: Update
 
-- [2025/05/02] We have released the GSLSD dataset, details can be found at [here](https://pan.baidu.com/s/1RYiQPiTN84KU0SVgJZsgNw?pwd=h6hr).
-
+- [2025/05/02] We have released the GSLSD dataset, details can be found at [here](https://pan.baidu.com/s/17ZZGzLoRQkmjalJslzF8Gw?pwd=4a7h). 
 
 
