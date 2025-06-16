@@ -50,6 +50,37 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 ### :fire: Update
 
-- [2025/05/02] We have released the GSLSD dataset, details can be found at [here](https://pan.baidu.com/s/17ZZGzLoRQkmjalJslzF8Gw?pwd=4a7h). 
+- [2025/05/02] We have released the GSLSD dataset, details can be found at [here](https://pan.baidu.com/s/17ZZGzLoRQkmjalJslzF8Gw?pwd=4a7h).
 
+<!-- License -->
+## :warning: Citation
+
+```bash
+@article{ma2025parameter,
+  title={Parameter-Efficient Fine-Tuning with Frequency Adapter for Enhanced Sea-Land Segmentation},
+  author={Ma, Dongliang and Zhu, Likai and Zhao, Fang and Xie, Yichen and Li, Ye and Liu, Min},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2025},
+  publisher={IEEE}
+}
+```
+
+<!-- Contact -->
+## :handshake: Contact
+
+Dongliang Ma - [@dongliangma1](https://twitter.com/dongliangma1) - mdl.viper@gmail.com
+
+Project Link: [https://github.com/Vipermdl/foundation-model-for-SLS](https://github.com/Vipermdl/foundation-model-for-SLS)
+
+
+<!-- Acknowledgments -->
+## :gem: Acknowledgements
+
+Use this section to mention useful resources and libraries that you have used in your projects.
+
+ - [GDA](https://github.com/HSG-AIML/GDA)
+ - [SWED](https://openmldata.ukho.gov.uk/)
+ - [SLSD](https://github.com/lllltdaf2/Sea-land-segmentation-data)
+ - [torchgeo](https://github.com/microsoft/torchgeo)
+ - [DeepWaterMap](https://github.com/isikdogan/deepwatermap)
 
